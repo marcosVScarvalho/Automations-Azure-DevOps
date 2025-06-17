@@ -48,7 +48,7 @@ Automatizar tarefas dentro do Azure DevOps com os seguintes objetivos:
 
 ---
 
-## 4 - Comandos Git Utilizados + Definições:
+## 4 - Comandos Git que serão Utilizados no projeto + Definições:
 
  - O que é o Git:
   - Git se Baseia em um controle de versão (Historico do Projeto), com ele é possivel criarmos repositorios para nossa linha do tempo tambem chamada de Branch, commits são pontos na nossa branch, stage area local de organização do projeto para enviar o commit
