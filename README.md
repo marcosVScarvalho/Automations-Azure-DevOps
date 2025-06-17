@@ -45,6 +45,7 @@ Automatizar tarefas dentro do Azure DevOps com os seguintes objetivos:
   - `az devops` (Azure CLI)
   - PowerShell com módulos AzureDevOps
   - Python com bibliotecas `requests`, `pandas`, `matplotlib`, `plotly`
+  - Rocketseat [https://app.rocketseat.com.br/?type=ALL](https://app.rocketseat.com.br/?type=ALL)
 
 ---
 
