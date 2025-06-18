@@ -56,6 +56,6 @@ Automatizar tarefas dentro do Azure DevOps com os seguintes objetivos:
 
 - `git -v` — Verifica a versão instalada do Git  
 - `git init` — Inicializa o repositório local  
-- `git add .` — Adiciona todos os arquivos para staging  
+- `git add .` — Adiciona todos os arquivos modificados, ao stage
 - `git commit -m "mensagem"` — Realiza um commit com mensagem
 - `git push` — Envia alterações para o repositório remoto
